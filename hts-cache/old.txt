@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:12:28	166/166	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2001%20Jun%202022%2017:12:26%20GMT	http://bfa2022.massartphotography.org/robots.txt		(from )
+13:12:28	166/166	---M--	301	error ('Moved%20Permanently')	text/html	date:Wed,%2001%20Jun%202022%2017:12:26%20GMT	http://bfa2022.massartphotography.org/	C:/My%20Web%20Sites/BFA%202022/bfa2022.massartphotography.org/index.html	(from )
